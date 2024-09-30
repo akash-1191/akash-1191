@@ -1,9 +1,8 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-1191&label=Profile%20views&color=0e75b6&style=flat" alt="akash-1191" /> </p>
-
-<img align="right"alt="coading" width="400" style="background-color:rgba(210, 209, 209, 0.289); border-radius: 10px;"  
-src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" >
+</br>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right"alt="coading" width="400" style="background-color:rgba(210, 209, 209, 0.289); border-radius: 10px;" />
 
 - 🔭 I’m currently working on **Career Bridge**
 
