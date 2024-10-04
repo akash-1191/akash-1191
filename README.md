@@ -1,4 +1,4 @@
-![logo](https://github.com/akash-1191/akash-1191/blob/main/gitbackgroundimage.png)
+![logo](https://github.com/akash-1191/akash-1191/blob/main/gitbackgroundimg.png)
 <h1 align="center">Hi 👋,I'm Akash Maurya</h1>
 
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
