@@ -1,4 +1,4 @@
-<img src="https://github.com/akash-1191/akash-1191/blob/main/gitbgam.png" alt="logo" >
+<img src="https://github.com/akash-1191/akash-1191/blob/main/imageGitpro.png" alt="logo" >
 
 <h1 align="center">Hi 👋,I'm Akash Maurya</h1>
 
