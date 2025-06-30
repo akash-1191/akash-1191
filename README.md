@@ -1,5 +1,7 @@
 <img src="https://github.com/akash-1191/akash-1191/blob/main/imageGitpro.png" alt="logo" >
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akash-1191&theme=darkhub&margin-w=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋,I'm Akash Maurya</h1>
 
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
