@@ -62,5 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-1191&show_icons=true&locale=en&theme=tokyonight" alt="akash-1191" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-1191&theme=tokyonight" alt="akash-1191" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-1191&theme=tokyonight" />
 </p>
+
+
